@@ -1,2 +1,4 @@
-data/*
-env/*
+data
+env
+*.swp
+.ipynb_checkpoints
