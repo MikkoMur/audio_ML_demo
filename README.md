@@ -10,7 +10,7 @@ Audio demos done with the UrbanSound8k dataset <https://urbansounddataset.weebly
 
 The dataset includes 8732 labeled sound excerpts of urban sounds from 10 classes.
 
-To run the demos below, create a data directory to the project root with contents 
+To run the demos below, create a data directory to the project root with the following contents: 
 ```bash
 data
 └── UrbanSound8K
