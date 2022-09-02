@@ -2,6 +2,8 @@
 
 Run `python -m pip install -r requirements.txt` to install the python dependencies for the demos. 
 
+Then `jupyter-lab` at project root to access the notebooks.
+
 ## UrbanSound8k
 
 Audio demos done with the UrbanSound8k dataset <https://urbansounddataset.weebly.com/urbansound8k.html>
